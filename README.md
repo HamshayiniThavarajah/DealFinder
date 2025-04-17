@@ -1,7 +1,3 @@
-Sure! Here's a more **attractive and visually engaging** version of your `README.md` for **DealFinder**, with a bold first-letter style and relevant icons that typically render well on GitHub (using emojis):
-
----
-
 # **🛍️ 𝐃ealFinder** — *Smart Shopping, Smarter Savings!*
 
 **DealFinder** is a smart and sleek price comparison web app that helps you **find the best deals across multiple e-commerce platforms**. Whether you’re a savvy shopper or just trying to stick to a budget, DealFinder makes comparing prices quick, easy, and even fun.
